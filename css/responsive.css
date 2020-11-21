@@ -1,0 +1,85 @@
+@media (max-width: 991px){
+
+}
+@media (max-width: 767px){
+	.feature-section h4, .feature, footer, .partner-section h1{
+		text-align: center;
+	}
+}
+@media (max-width: 575px){
+	.navbar-collapse button{
+		display: none;
+	}
+	.dropdown-menu{
+		margin: 0;
+	}
+	.navbar-brand img{
+		height: 30px;
+	}
+	.banner span{
+		font-size: 30px;
+		padding: 10px 30px;
+	}
+	.banner h1{
+		font-size: 25px;
+		margin: 0;
+    	padding: 30px 10px 5px;
+	}
+	.banner h2{
+		font-size: 18px;
+	}
+	.middle h1{
+		font-size: 22px;
+	}
+	.middle p{
+		font-size: 14px;
+	}
+	.join h1 {
+    font-size: 22px;
+	}
+	.join h2 {
+    font-size: 16px;
+	}
+	.join p {
+    font-size: 14px;
+	}
+	.partner-section h1 {
+    font-size: 30px;
+	}
+	.partner-content h3 {
+    font-size: 18px;
+	}
+	.partner-img img {;
+    height: 30px;
+	}
+	.partner-content p {
+    font-size: 12px;
+	}
+	.feature-section{
+		padding-top: 2rem !important;
+	}
+	.feature-section h4{
+		font-size: 20px;
+	}
+	.feature span {
+    font-size: 50px;
+	}
+	.feature h5 {
+    font-size: 14px;
+	}
+	.feature p {
+    font-size: 12px;
+	}
+	.feature-section a{
+		font-size: 10px;
+	}
+	footer ul li:first-child {
+    font-size: 15px;
+	}
+	footer ul li a {
+    font-size: 12px;
+	}
+	footer p {
+    font-size: 10px;
+	}
+}
